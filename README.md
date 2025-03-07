@@ -70,7 +70,7 @@
 ![2025-03-07 14_39_18-Mythic](https://github.com/user-attachments/assets/42a483e8-7422-4e68-aa55-24401086ca8e)
 
 - EXFIL w/this command: download C:\Users\Administrator\Documents\password
-- 
+
 ![2025-03-07 14_47_05-Mythic](https://github.com/user-attachments/assets/5f12955b-a6b9-4e7e-9cb8-670d78aa6a21)
 
 
