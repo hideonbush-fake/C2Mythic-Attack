@@ -46,6 +46,33 @@
 ![Screenshot 2025-03-07 111620](https://github.com/user-attachments/assets/14045543-9d03-4b68-8d9e-9a3728d862e0)
 
 ### PHASE 4 (EXECUTION)
+- Download C2 Agent on to the Mythic Server "https://github.com/MythicAgents/Apollo"
+- Download C2 Profile "https://github.com/MythicC2Profiles/http"
+- Create a payload on Mythic Web Gui & download it to our Mythic Server
+- Create a new filename
+
+![2025-03-07 13_47_36-Mythic](https://github.com/user-attachments/assets/407932ec-7d5d-47b7-bc4a-70227fd1401e)
+![2025-03-07 13_48_47-root@MYTHIC-SERVER_ ~_MalPayload](https://github.com/user-attachments/assets/357d1ac3-530d-40e1-ac9d-34159c09d706)
+
+- Use Python's built-in HTTP module to host and deliver a malicious payload to the victim's system
+  
+![2025-03-07 13_50_03-root@MYTHIC-SERVER_ ~_MalPayload](https://github.com/user-attachments/assets/60a5a974-fd61-4a72-b355-841132fbcecc)
+
+- Return to the XFREERDP session from Phase 2 and use Invoke-WebRequest in PowerShell.
+- Execute the malicious payload to establish a C2 connection with the Mythic Web GUI.
+
+![Screenshot 2025-03-07 140953](https://github.com/user-attachments/assets/e35e26bf-7c4e-4aa2-9c3d-b05c9e332749)
+![Screenshot 2025-03-07 141033](https://github.com/user-attachments/assets/91493243-3ee4-4ead-a09f-2e3e851f7a01)
+
+
+
+
+
+
+
+
+
+
 
 
 
