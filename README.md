@@ -64,6 +64,17 @@
 ![Screenshot 2025-03-07 140953](https://github.com/user-attachments/assets/e35e26bf-7c4e-4aa2-9c3d-b05c9e332749)
 ![Screenshot 2025-03-07 141033](https://github.com/user-attachments/assets/91493243-3ee4-4ead-a09f-2e3e851f7a01)
 
+### PHASE 5/6 (EXECUTION $ EXFILTRATION)
+- Successfully established a C2 connection with the Mythic Web GUI, able to run commands
+
+![2025-03-07 14_39_18-Mythic](https://github.com/user-attachments/assets/42a483e8-7422-4e68-aa55-24401086ca8e)
+
+- EXFIL w/this command: download C:\Users\Administrator\Documents\password
+- 
+![2025-03-07 14_47_05-Mythic](https://github.com/user-attachments/assets/5f12955b-a6b9-4e7e-9cb8-670d78aa6a21)
+
+
+
 
 
 
