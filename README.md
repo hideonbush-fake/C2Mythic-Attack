@@ -1,4 +1,4 @@
-# C2Mythic-Attack-and-Detect
+# C2Mythic-Attack
 
 ## Objective
 
