@@ -1,14 +1,16 @@
 # C2Mythic-Attack
 
 ## Objective
-
+Executed a Mythic C2 attack on a Windows system by conducting an RDP brute-force attack using a predefined wordlist to gain unauthorized access. Upon successful authentication, deployed and executed a malicious payload to establish a C2 connection with the Mythic server. Leveraged the compromised session to perform post-exploitation activities, including data exfiltration, demonstrating the effectiveness of remote access attacks and the importance of detection and mitigation strategies.
 
 ### Attack Diagram
 ![2025-03-07 10_48_45-Untitled Diagram drawio - draw io](https://github.com/user-attachments/assets/bb02f68d-69bf-49dc-89d6-c5045c9741ea)
 ![2025-03-07 10_49_01-Untitled Diagram drawio - draw io](https://github.com/user-attachments/assets/7f936758-e35f-4d7d-ad4e-ed35d2240456)
 
 #### Skills Learned
-
+- Created and delivered a malicious payload to establish remote control over the target machine
+- Configured and deployed Mythic C2, established a persistent connection, and controlled the compromised system.
+  
 ## Attack Phases
 ### PHASE 0 (SETUP)
 - SSH into Mythic Server & apt install and enable docker-compose (Mythic is a containerized system --> Docker services manage and run C2 efficiently)
